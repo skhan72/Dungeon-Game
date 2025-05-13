@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="added chambers and doors">
+    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="added players and the items they will use">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shield.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shield.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" afterDir="false" />
     </list>
@@ -74,14 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747100232680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added players and the items they will use">
+      <option name="closed" value="true" />
+      <created>1747100809853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747100809853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made all the java files and now putting them together" />
     <MESSAGE value="added characters attributes as listed" />
     <MESSAGE value="added chambers and doors" />
-    <option name="LAST_COMMIT_MESSAGE" value="added chambers and doors" />
+    <MESSAGE value="added players and the items they will use" />
+    <option name="LAST_COMMIT_MESSAGE" value="added players and the items they will use" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

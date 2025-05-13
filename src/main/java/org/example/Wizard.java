@@ -1,5 +1,9 @@
 package org.example;
-
+/**
+ * The {@code Wizard} class represents a
+ * specialized type of {@link Character}
+ *
+ */
 public class Wizard extends Character {
     /**
      * The maximum level a Wizard can achieve.
@@ -10,7 +14,10 @@ public class Wizard extends Character {
      */
     private static final int BASE_HEALTH = 100;
 
-
+    /**
+     * @param name the name of the wizard
+     *
+     */
     public Wizard(final String name) {
         super(name, 2, MAX_LEVEL, BASE_HEALTH);
     }

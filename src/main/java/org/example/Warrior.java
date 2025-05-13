@@ -1,5 +1,9 @@
 package org.example;
-
+/**
+ * The {@code Warrior} class represents a
+ * specialized type of {@link Character}
+ *
+ */
 public class Warrior extends Character {
     /**
      * Constructs a new {@code Warrior}
