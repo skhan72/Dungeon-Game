@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="added characters attributes as listed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MagicWand.java" afterDir="false" />
+    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="added chambers and doors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +66,22 @@
       <option name="project" value="LOCAL" />
       <updated>1747098998098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added chambers and doors">
+      <option name="closed" value="true" />
+      <created>1747100232680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747100232680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made all the java files and now putting them together" />
     <MESSAGE value="added characters attributes as listed" />
-    <option name="LAST_COMMIT_MESSAGE" value="added characters attributes as listed" />
+    <MESSAGE value="added chambers and doors" />
+    <option name="LAST_COMMIT_MESSAGE" value="added chambers and doors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
