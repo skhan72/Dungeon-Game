@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="added players and the items they will use">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sword.java" afterDir="false" />
+    <list default="true" id="960a87b2-545d-4ded-9521-d7c3694f6900" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shield.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Wizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Dungeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Fight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MagicWand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MagicWand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PrintError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PrintError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TextUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TextUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +42,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Game" />
+      <module name="Assignment2_SummaiyaKhan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747100809853</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <option name="closed" value="true" />
+      <created>1747101368605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747101368605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,7 +125,8 @@
     <MESSAGE value="added characters attributes as listed" />
     <MESSAGE value="added chambers and doors" />
     <MESSAGE value="added players and the items they will use" />
-    <option name="LAST_COMMIT_MESSAGE" value="added players and the items they will use" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

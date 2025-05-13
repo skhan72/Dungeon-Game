@@ -43,7 +43,7 @@ public class Dungeon {
 
         // Add items to chambers
         start.addItem(new Sword("Iron Sword", 3));
-        interval.addItem(new Wand("Magic Wand", 4));
+        interval.addItem(new MagicWand("Magic Wand", 4));
 
         chambers.add(start);
         chambers.add(interval);
@@ -56,7 +56,7 @@ public class Dungeon {
     /**
      * @return True if the player is in the last chamber, false otherwise.
      */
-    public boolean isFinished() {
+    public boolean hasEnded() {
         return currentChamber.getName().equals("End");
     }
 
