@@ -57,7 +57,7 @@ public class Dungeon {
      * @return True if the player is in the last chamber, false otherwise.
      */
     public boolean hasEnded() {
-        return currentChamber.getName().equals("End");
+        return currentChamber == endChamber;
     }
 
     /**

@@ -18,7 +18,7 @@ public class TextUI {
      * @param d the {@link Dungeon} object representing the game world
      */
     public void play(final Dungeon d) {
-        while (!d.isFinished()) {
+        while (!d.hasEnded()) {
             print(d);
             Action a = ask(d);
             a.execute();
