@@ -1,3 +1,7 @@
+//-----------------------------
+//Written By: Summaiya Khan - 2080068
+// For SE350 Online synch section - Spring 2025
+//-----------------------------
 package org.example;
 /**
  * The {@code Monster} class represents a monster in the dungeon game.

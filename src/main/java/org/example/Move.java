@@ -4,16 +4,6 @@ package org.example;
  * The {@code Move} class represents an action where the player moves from one chamber
  * to another within the dungeon.
  *
- * <p>This action updates the player's current location in the dungeon by setting the
- * target chamber as the new current chamber.</p>
- *
- * Example usage:
- * <pre>
- *     Move moveAction = new Move(dungeon, targetChamber);
- *     moveAction.execute();
- * </pre>
- *
- * @author
  */
 public class Move implements Action {
 

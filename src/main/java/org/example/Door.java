@@ -1,3 +1,8 @@
+//-----------------------------
+//Written By: Summaiya Khan - 2080068
+// For SE350 Online synch section - Spring 2025
+//-----------------------------
+
 package org.example;
  /**
   * The Door class represents a door between two chambers in the dungeon.

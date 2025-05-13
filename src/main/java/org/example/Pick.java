@@ -1,5 +1,9 @@
 package org.example;
 import javax.swing.*;
+//-----------------------------
+//Written By: Summaiya Khan - 2080068
+// For SE350 Online synch section - Spring 2025
+//-----------------------------
 
 /**
  * The {@code Pick} class represents an action where the player picks up an item

@@ -1,6 +1,10 @@
 package org.example;
 import java.util.ArrayList;
 import java.util.List;
+//-----------------------------
+//Written By: Summaiya Khan - 2080068
+// For SE350 Online synch section - Spring 2025
+//-----------------------------
 
 /**
  * This class represents a character in the game.

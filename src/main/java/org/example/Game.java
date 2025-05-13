@@ -1,3 +1,7 @@
+//-----------------------------
+//Written By: Summaiya Khan - 2080068
+// For SE350 Online synch section - Spring 2025
+//-----------------------------
 package org.example;
 import java.util.List;
 
@@ -36,7 +40,7 @@ public class Game {
             int choice = ui.getPlayerChoice(actions);
 
             while (choice < 0 || choice >= actions.size()) {
-                ui.displayInvalidChoiceMessage();  // Assuming TextUI has a method for invalid choice
+                ui.displayInvalidChoiceMessage();
                 choice = ui.getPlayerChoice(actions);
             }
 
